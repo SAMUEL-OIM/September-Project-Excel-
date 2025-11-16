@@ -7,9 +7,20 @@
 ## Overview
 - This project analyzes borrower demographics, loan purposes, and repayment behavior to identify key credit risk patterns and guide better lending decisions.
 
+## Aim & Objectives 
+- What key borrower and loan factors influence credit risk and default patterns in the dataset?
+- What is the overall loan performance in terms of default vs non-default borrowers?
+- How do borrower demographics (age, gender, marital status, home ownership) affect repayment behaviour?
+- How do different loan purposes contribute to variations in default risk?
+- How does employment type and income stability influence loan repayment outcomes?
+- Which borrower groups or loan categories present the highest risk of default?
+- How is credit exposure distributed across countries and regions?
+- What data-driven actions can lenders take to reduce default rates and improve credit risk management?
+
 ## Data Preparation
 - Using Excel + Power Query, the dataset was cleaned by:
 - Removing duplicates
+- Replace numbers with actual words using the data dictionary 
 - Standardizing text fields
 - Extracting age groups & regions
 - Cleaning loan and income fields
