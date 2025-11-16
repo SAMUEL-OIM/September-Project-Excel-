@@ -2,6 +2,7 @@
 - By: Olusesan Samuel – SQI Academy
 - Tools: Excel, Power Query
 - Dataset Size: 32,581 records
+- Data source: [Here](https://datadna.onyxdata.co.uk/challenges/september-2025-datadna-credit-risk-analytics-challenge/) 
 
 ## Overview
 - This project analyzes borrower demographics, loan purposes, and repayment behavior to identify key credit risk patterns and guide better lending decisions.
